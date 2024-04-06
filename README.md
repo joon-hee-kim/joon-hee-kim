@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 - 👀 I’m interested in Conputer Science, and Industrial ENG
 - 🌱 I’m currently learning Data Science and Machine Learning
 - 💞️ I’m looking to collaborate on Computer ENGINEERS
-- 📫 How to reach me - Gitbug
+- 📫 How to reach me - Github
 
 <div id="badges">
   <a href="https://sites.google.com/">
