@@ -1,6 +1,7 @@
-### Hi there 👋
 
 <!--
+### Hi there 👋
+
 **joon-hee-kim/joon-hee-kim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -20,11 +21,11 @@ Here are some ideas to get you started:
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-- 👋 Hi, I’m GLOBAL TOMOC
-- 👀 I’m interested in CIVIL ENG, OCEAN ENG, GEOSCIENCE, DATA SCIENCE
-- 🌱 I’m currently learning ENERGY INDUSTRY
-- 💞️ I’m looking to collaborate on YG ENGINEERS
-- 📫 How to reach me - SUBSCRIBE YOUTUBE
+- 👋 Hi, I’m Joon-Hee Kim
+- 👀 I’m interested in Conputer Science, and Industrial ENG
+- 🌱 I’m currently learning Data Science and Machine Learning
+- 💞️ I’m looking to collaborate on Computer ENGINEERS
+- 📫 How to reach me - Gitbug
 
 <div id="badges">
   <a href="https://sites.google.com/view/jungrak-son-phd-pe">
