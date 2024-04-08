@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 </div>
 
 - 👋 Hi, I’m Joon-Hee Kim
-- 👀 I’m interested in Conputer Science, and Industrial ENG
+- 👀 I’m interested in Computer Science, and Industrial ENG
 - 🌱 I’m currently learning Data Science and Machine Learning
 - 💞️ I’m looking to collaborate on Computer ENGINEERS
 - 📫 How to reach me - Github
